@@ -1,0 +1,4 @@
+com\spring\mallet\HomeControllerNaiveBayes.class
+com\spring\mallet\HomeController.class
+com\spring\mallet\HomeControllerDecision.class
+com\spring\mallet\HomeControllerMaxEnt.class
